@@ -1,3 +1,3 @@
-# gpt-3.5-turbo-sample
+# template
 
-typescriptでopen ai apiを呼び出すサンプルコード
+TSプロジェクト用のテンプレート
